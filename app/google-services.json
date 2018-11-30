@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "578066497166",
+    "firebase_url": "https://harjoitukset-7-ja-8-uusi1.firebaseio.com",
+    "project_id": "harjoitukset-7-ja-8-uusi1",
+    "storage_bucket": "harjoitukset-7-ja-8-uusi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578066497166:android:56c40d80f888522e",
+        "android_client_info": {
+          "package_name": "com.example.android.harjoitus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578066497166-r7gr7on6kjkv6k10e5jjapdp005f25oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOgsdS3_AO2rZ0rrJmqVAtL3vNVEdZK5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
